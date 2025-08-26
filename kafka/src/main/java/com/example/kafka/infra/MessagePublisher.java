@@ -1,4 +1,4 @@
-package com.example.kafka.kafka;
+package com.example.kafka.infra;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;

@@ -1,4 +1,4 @@
-package com.example.kafka.kafka;
+package com.example.kafka.infra;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.springframework.kafka.annotation.KafkaListener;

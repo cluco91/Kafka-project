@@ -1,6 +1,6 @@
 package com.example.kafka.api;
 
-import com.example.kafka.kafka.MessagePublisher;
+import com.example.kafka.infra.MessagePublisher;
 import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

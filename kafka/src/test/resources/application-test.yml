@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    consumer:
+      group-id: test-consumers
+      auto-offset-reset: earliest
+    producer:
+      properties:
+        acks: all
+app:
+  topic: demo.messages
